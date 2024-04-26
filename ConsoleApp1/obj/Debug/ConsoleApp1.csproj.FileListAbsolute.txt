@@ -1,0 +1,14 @@
+F:\Проекты VS\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+F:\Проекты VS\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+F:\Проекты VS\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+F:\Проекты VS\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+F:\Проекты VS\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\Проекты VS\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+F:\Проекты VS\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+F:\Study\Задачи c++\C#\Новая папка\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+F:\Study\Задачи c++\C#\Новая папка\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+F:\Study\Задачи c++\C#\Новая папка\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+F:\Study\Задачи c++\C#\Новая папка\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+F:\Study\Задачи c++\C#\Новая папка\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\Study\Задачи c++\C#\Новая папка\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+F:\Study\Задачи c++\C#\Новая папка\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
